@@ -37,7 +37,7 @@ Deployed and hosted via **Netlify** with continuous deployment enabled.
 ---
 
 ## 📂 Project Structure
-
+```
 omnifood-landing-site/
 │
 ├── index.html # Main HTML file
