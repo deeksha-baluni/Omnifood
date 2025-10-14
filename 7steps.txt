@@ -1,0 +1,88 @@
+Process of building a website:
+-define
+who the website is for?
+what the website is for?
+target audience?
+
+-plan
+plan and gather website content. text, images, and videos.
+
+content is usually provide by client.
+
+for bigger website, plan out sitemao.
+
+based on content plan what sections each page needs.
+
+website personality
+
+-sketch
+components and layout pattern.
+
+sketch them with pena and paper with some design software like figma.
+
+iterative process
+
+-design and build
+html & css
+based on website personality
+client's branding
+
+-test
+website works in all major browsers
+
+test the website on actual mobilr devices
+
+optimize all images
+
+check color contrast 
+
+run lighthouse performance test
+
+think about SEO
+
+-launch
+upload your website to a hosting platform.
+
+buy a great domain name
+
+-maintain & update
+keep updated.
+
+maintain monthly maintanence contract
+
+install analytics to get statistics about websites users.
+
+blog that is updated regularly
+
+__OMNIFOOD PROJECT___
+
+-who?
+client
+
+-what?
+business goal- selling monthly food subscription
+user goal- eating well, effortlessly without a lot of time and money
+
+-target audience?
+busy people who like tech, are interested in a healthy diet, and have well paying job.
+
+-plan & gather = already done
+
+-plan out sitemap = one page website
+
+-website personality
+startup/upbeat + calm/peaceful 
+
+-plan sections
+#list-of-sections
+--navigation  
+--hero section
+--featured publications
+--how it works 
+--meals (& list of diets)
+--testimonials + gallery
+--pricing + features
+--offer sample meal ( call to action section)
+--(footer)contact info & additional links
+
+ 
